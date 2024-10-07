@@ -1,4 +1,3 @@
-<h3> Hi there 😄, I am Carlos Gallego, from Salamanca. I studied Higher Level Education Cycle (CFGS) of Multiplatform Apps Developping (DAM).</h3>
 <hr>
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallegogc&langs_count=6&theme=dark&hide_border=true&icon_color=FFFFFF&bg_color=0d1117&layout=default&card_width=315&cache_seconds=1800" />
